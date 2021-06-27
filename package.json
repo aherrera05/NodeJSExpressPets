@@ -1,0 +1,28 @@
+{
+  "name": "pets",
+  "version": "1.0.0",
+  "description": "Backend para mis mascotas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aherrera05/NodeJSExpressPets.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express"
+  ],
+  "author": "Amanda Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aherrera05/NodeJSExpressPets/issues"
+  },
+  "homepage": "https://github.com/aherrera05/NodeJSExpressPets#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9"
+  }
+}
