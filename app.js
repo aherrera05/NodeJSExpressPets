@@ -1,6 +1,6 @@
 const express = require('express');
 const path = require('path');
-const mongodb = require('./database/mongodbUtil');
+const mongodb = require('./database/mongoDBUtil.js');
 const app = express();
 const port = 3000;
 
